@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luba Luba</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <div class="menu">
+            <div class="logo">
+                <img class="logo" src="./lubalubaicons/luba cópia.png">
+            </div>
+            <nav class="menu-items">
+                <a href=""><img src="./lubalubaicons/search.png"></a>
+                <a href=""><img src="./lubalubaicons/cart.png"></a>
+                <a href=""><img src="./lubalubaicons/menu.png"></a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <div class="content">
+            <div class="left-side">
+                <h1>Boneco de ação Hulk</h1>
+                <p>O Verdão mais amado do mundo</p>
+                <span>R$189,99</span>
+                <a href="">Adicionar ao carinho</a>
+            </div>
+            <div class="rigth-side">
+                <img src="https://rihappy.vtexassets.com/arquivos/ids/338436-800-auto?v=636407254485800000&width=800&height=auto&aspect=true    " >
+            </div>
+        </div>
+    </main>
+
+
+
+</body>
+
+</html>
+
+https://images.lojanike.com.br/1024x1024/produto/tenis-nike-air-max-97-masculino-921826-101-1.png
